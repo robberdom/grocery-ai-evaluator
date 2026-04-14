@@ -1,0 +1,14 @@
+{
+  "task_id": "T3",
+  "output_label": "X",
+  "task": "Plan a week of lunches for one person with a nut allergy, budget $30.",
+  "output": "To plan a week of lunches for one person with a nut allergy, I'll focus on safe and affordable options. Here's a meal plan and grocery list:\n\n**Monday: Turkey and Cheese Sandwich**\n- 1 loaf of whole wheat bread ($2.50)\n- 1 pack of sliced turkey breast ($3.00)\n- 1 block of cheddar cheese ($2.50)\n- 1 lettuce ($1.00)\n- 1 tomato ($0.60)\n\n**Tuesday: Pasta Salad**\n- 1 box of pasta ($1.50)\n- 1 bottle of Italian dressing ($2.00)\n- 1 cucumber ($0.60)\n- 1 bell pepper ($0.80)\n\n**Wednesday: Tuna Salad Sandwich**\n- 1 can of tuna ($2.00)\n- 1 mayonnaise ($1.50)\n- 1 onion ($0.60)\n\n**Thursday: Grilled Cheese and Soup**\n- 1 can of tomato soup ($1.00)\n\n**Friday: Ham and Cheese Wrap**\n- 1 pack of whole wheat tortillas ($2.00)\n- 1 pack of sliced ham ($3.00)\n\n**Grocery List:**\n1. Whole wheat bread ($2.50)\n2. Sliced turkey breast ($3.00)\n3. Cheddar cheese ($2.50)\n4. Lettuce ($1.00)\n5. Tomato ($0.60)\n6. Pasta ($1.50)\n7. Italian dressing ($2.00)\n8. Cucumber ($0.60)\n9. Bell pepper ($0.80)\n10. Canned tuna ($2.00)\n11. Mayonnaise ($1.50)\n12. Onion ($0.60)\n13. Canned tomato soup ($1.00)\n14. Whole wheat tortillas ($2.00)\n15. Sliced ham ($3.00)\n\n**Running Total:** $2.50 + $3.00 + $2.50 + $1.00 + $0.60 + $1.50 + $2.00 + $0.60 + $0.80 + $2.00 + $1.50 + $0.60 + $1.00 + $2.00 + $3.00 = **$29.10**\n\nThis meal plan should provide a week's worth of lunches while staying within the $30 budget and avoiding nuts.",
+  "scores": {
+    "budget": 2,
+    "dietary": 2,
+    "realism": 2,
+    "completeness": 2,
+    "clarity": 2
+  },
+  "total": 10
+}

@@ -1,0 +1,14 @@
+{
+  "task_id": "T1",
+  "output_label": "A",
+  "task": "Generate a 3-day vegetarian meal plan with a grocery list under $50 for 2 people.",
+  "output": "**Meal Plan and Grocery List for 2 People (3 days)**\n\n### Day 1\n- Breakfast: Oatmeal with Banana and Honey\n- Lunch: Pasta Primavera (Vegetable Pasta)\n- Dinner: Tofu Stir Fry with Vegetables and Rice\n\n### Day 2\n- Breakfast: Yogurt Parfait with Granola and Berries\n- Lunch: Hummus and Avocado Wrap\n- Dinner: Black Bean and Corn Tacos\n\n### Day 3\n- Breakfast: Scrambled Eggs with Spinach and Toast\n- Lunch: Quinoa Salad with Roasted Vegetables\n- Dinner: Grilled Vegetable Quesadilla\n\n**Grocery List:**\n\n1. **Rolled Oats** (1 bag, $2.50)\n2. **Bananas** (4, $1.00)\n3. **Honey** (1 bottle, $1.50)\n4. **Pasta (Bowtie)** (1 box, $1.25)\n5. **Frozen Mixed Vegetables** (1 bag, $1.50)\n6. **Tofu** (1 block, $2.00)\n7. **Vegetable Oil** (1 bottle, $2.00)\n8. **Rice** (2 lbs, $2.50)\n9. **Yogurt** (2 cups, $2.50)\n10. **Granola** (1 bag, $2.50)\n11. **Frozen Mixed Berries** (1 bag, $2.00)\n12. **Hummus** (1 cup, $2.50)\n13. **Whole Wheat Wraps** (4, $2.00)\n14. **Avocados** (2, $2.50)\n15. **Canned Black Beans** (1 can, $1.00)\n16. **Canned Corn** (1 can, $1.00)\n17. **Taco Seasoning** (1 packet, $0.50)\n18. **Eggs** (6, $1.50)\n19. **Fresh Spinach** (1 bunch, $1.00)\n20. **Quinoa** (1 bag, $2.00)\n21. **Roasting Vegetables (assorted)** (1 bunch, $1.50)\n22. **Tortillas** (4, $2.00)\n23. **Shredded Cheese** (1 cup, $2.50)\n\n**Running Total: $41.25**\n\nThis meal plan provides a variety of vegetarian meals, stays under the $50 budget, and includes all necessary groceries for 2 people for 3 days. The remaining $8.75 can be used for any additional items or beverages you wish to add.",
+  "scores": {
+    "budget": 2,
+    "dietary": 1,
+    "realism": 2,
+    "completeness": 2,
+    "clarity": 2
+  },
+  "total": 9
+}

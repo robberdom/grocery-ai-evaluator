@@ -1,0 +1,14 @@
+{
+  "task_id": "T1",
+  "output_label": "X",
+  "task": "Generate a 3-day vegetarian meal plan with a grocery list under $50 for 2 people.",
+  "output": "**3-Day Vegetarian Meal Plan for 2 People**\n\n### Day 1\n- Breakfast: Oatmeal with Banana and Honey\n  - 1 cup cooked oatmeal\n  - 1 banana, sliced\n  - 1 tsp honey\n- Lunch: Hummus and Avocado Wrap\n  - 1 whole wheat wrap\n  - 2 tbsp hummus\n  - 1/2 avocado, sliced\n  - Lettuce, tomato\n- Dinner: Pasta with Tomato Sauce and Vegetables\n  - 1 cup cooked pasta\n  - 1 cup tomato sauce\n  - 1 cup mixed vegetables (bell peppers, onions, mushrooms)\n\n### Day 2\n- Breakfast: Yogurt Parfait with Granola and Berries\n  - 1 cup yogurt\n  - 2 tbsp granola\n  - 1/2 cup mixed berries\n- Lunch: Grilled Cheese and Tomato Sandwich\n  - 2 whole wheat bread slices\n  - 1 cheese slice\n  - 1 tomato, sliced\n- Dinner: Lentil Soup with Bread\n  - 1 cup cooked lentils\n  - 2 cups vegetable broth\n  - 2 whole wheat bread slices\n\n### Day 3\n- Breakfast: Scrambled Eggs with Spinach and Whole Wheat Toast\n  - 2 eggs\n  - 1/2 cup fresh spinach\n  - 2 whole wheat bread slices\n- Lunch: Chickpea Salad\n  - 1 cup cooked chickpeas\n  - 1/2 cup mixed greens\n  - 1/2 cup cherry tomatoes, halved\n- Dinner: Vegetable Stir-Fry with Rice\n  - 1 cup cooked rice\n  - 1 cup mixed vegetables (broccoli, carrots, bell peppers)\n  - 1 tbsp vegetable oil\n\n**Grocery List**\n\n1. **Oats** (1 bag, $2.50) - for oatmeal\n2. **Bananas** (4, $1.00) - for oatmeal and snacks\n3. **Honey** (1 bottle, $1.50) - for oatmeal\n4. **Whole Wheat Wraps** (4, $2.00) - for hummus and avocado wrap\n5. **Hummus** (1 cup, $2.50) - for hummus and avocado wrap\n6. **Avocados** (2, $2.00) - for hummus and avocado wrap\n7. **Lettuce** (1 head, $0.50) - for hummus and avocado wrap\n8. **Tomatoes** (2, $1.00) - for hummus and avocado wrap, grilled cheese\n9. **Pasta** (1 box, $1.25) - for pasta with tomato sauce\n10. **Canned Tomato Sauce** (1 can, $1.00) - for pasta with tomato sauce\n11. **Mixed Vegetables** (1 bag, $1.50) - for pasta with tomato sauce, vegetable stir-fry\n12. **Yogurt** (2 cups, $2.50) - for yogurt parfait\n13. **Granola** (1 bag, $2.00) - for yogurt parfait\n14. **Mixed Berries** (1 cup, $1.50) - for yogurt parfait\n15. **Whole Wheat Bread** (1 loaf, $2.50) - for grilled cheese, lentil soup\n16. **Cheese** (1 block, $2.00) - for grilled cheese\n17. **Lentils** (1 cup, $1.25) - for lentil soup\n18. **Vegetable Broth** (1 can, $1.00) - for lentil soup\n19. **Eggs** (",
+  "scores": {
+    "budget": 0,
+    "dietary": 2,
+    "realism": 2,
+    "completeness": 1,
+    "clarity": 2
+  },
+  "total": 7
+}

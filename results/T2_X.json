@@ -1,0 +1,14 @@
+{
+  "task_id": "T2",
+  "output_label": "X",
+  "task": "Create a grocery list for a family BBQ for 10 people, budget $80.",
+  "output": "To plan a family BBQ for 10 people within a budget of $80, I'll suggest a list of essential items. Here's a practical grocery list and meal plan:\n\n**Grocery List:**\n\n1. **Burger Patties** (10 patties, $6.99) - Ground beef, 80/20 lean to fat ratio\n2. **Hot Dog Packs** (10 hot dogs, $4.49) - Classic pork hot dogs\n3. **Buns** (10-12 buns, $2.99) - Soft, white burger buns\n4. **Condiments**:\n\t* **Ketchup** (1 bottle, $1.99)\n\t* **Mustard** (1 bottle, $1.49)\n\t* **Relish** (1 bottle, $1.99)\n5. **Salad**:\n\t* **Lettuce** (1 head, $1.29)\n\t* **Cherry Tomatoes** (1 pint, $3.99)\n\t* **Cucumber** (1, $0.69)\n6. **Beverages**:\n\t* **Soda** (2 liters, $3.98) - Cola or lemon-lime flavor\n\t* **Water** (1 case, $2.99) - 12-pack of bottled water\n7. **Snacks**:\n\t* **Chips** (1 bag, $2.99) - Classic potato chips\n\n**Running Total:** $28.90\n\nTo stay within the budget, I'll add some affordable sides and desserts:\n\n8. **Grilled Vegetables**:\n\t* **Bell Peppers** (2, $1.98)\n\t* **Onions** (1, $0.69)\n9. **Fruit Salad**:\n\t* **Apples** (3, $2.97)\n\t* **Oranges** (4, $2.99)\n\n**Running Total:** $37.53\n\nThis list should provide a good balance of food and drinks for the family BBQ. To stay within the budget, I'll avoid additional items. The total cost is still under $40, leaving some room for minor adjustments or unexpected expenses.\n\n**Meal Plan:**\n- Grilled burgers and hot dogs with condiments and buns\n- Side salad with lettuce, cherry tomatoes, and cucumber\n- Grilled vegetables (bell peppers and onions)\n- Chips and fruit salad for snacks\n- Soda and water for beverages\n\n**Final Total:** $37.53\n\nThis plan should provide a delicious and satisfying meal for the family BBQ, all within the budget of $80.",
+  "scores": {
+    "budget": 2,
+    "dietary": 2,
+    "realism": 2,
+    "completeness": 2,
+    "clarity": 2
+  },
+  "total": 10
+}

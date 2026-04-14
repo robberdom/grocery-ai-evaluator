@@ -1,0 +1,14 @@
+{
+  "task_id": "T1",
+  "output_label": "Y",
+  "task": "Generate a 3-day vegetarian meal plan with a grocery list under $50 for 2 people.",
+  "output": "**Meal Plan:**\nTo stay within the $50 budget, we'll focus on affordable and nutritious vegetarian options. Here's a 3-day meal plan for 2 people:\n\nDay 1:\n- Breakfast: Oatmeal with banana and honey\n- Lunch: Pasta with marinara sauce and roasted vegetables\n- Dinner: Black bean and corn tacos\n\nDay 2:\n- Breakfast: Scrambled eggs with spinach and whole wheat toast\n- Lunch: Lentil soup with whole wheat bread\n- Dinner: Grilled vegetable sandwiches with hummus\n\nDay 3:\n- Breakfast: Yogurt parfait with granola and banana\n- Lunch: Quesadillas with roasted vegetables and guacamole\n- Dinner: Vegetable stir-fry with brown rice\n\n**Grocery List:**\n1. Oats (4 lbs, $4.50) - $4.50\n2. Bananas (4, $1.00) - $1.00\n3. Honey (12 oz, $2.50) - $2.50\n4. Pasta (12 oz, $1.25) - $1.25\n5. Marinara sauce (28 oz, $2.50) - $2.50\n6. Mixed vegetables (frozen, 12 oz, $1.50) - $1.50\n7. Canned black beans (15 oz, $1.25) - $1.25\n8. Corn tortillas (8-10, $2.00) - $2.00\n9. Eggs (6, $1.50) - $1.50\n10. Fresh spinach (1 bunch, $1.00) - $1.00\n11. Whole wheat bread (24 slices, $2.50) - $2.50\n12. Lentils (16 oz, $2.00) - $2.00\n13. Canned diced tomatoes (14.5 oz, $1.00) - $1.00\n14. Hummus (16 oz, $3.00) - $3.00\n15. Mixed vegetables (fresh, $1.50) - $1.50\n16. Whole wheat wraps (4-6, $2.50) - $2.50\n17. Yogurt (6 oz, $1.00) - $1.00\n18. Granola (12 oz, $2.50) - $2.50\n19. Brown rice (2 lbs, $2.00) - $2.00\n20. Stir-fry vegetables (frozen, 12 oz, $1.50) - $1.50\n21. Guacamole (16 oz, $3.50) - $3.50\n\n**Total:** $41.25\n\nThis meal plan should provide a balanced and nutritious diet for 2 people for 3 days, staying within the $50 budget. The total cost of groceries is $41.25, leaving $8.75 for any additional items or unexpected expenses.",
+  "scores": {
+    "budget": 2,
+    "dietary": 2,
+    "realism": 2,
+    "completeness": 2,
+    "clarity": 2
+  },
+  "total": 10
+}

@@ -1,0 +1,14 @@
+{
+  "task_id": "T2",
+  "output_label": "Y",
+  "task": "Create a grocery list for a family BBQ for 10 people, budget $80.",
+  "output": "To stay within the budget of $80 for a family BBQ for 10 people, I've created a list of essential items. Here's a structured grocery list and meal plan:\n\n**Beverages**\n1. Iced Tea (1 jug, $2.50) - serves 10 people\n2. Lemonade (1 jug, $2.50) - serves 10 people\n3. Water (1 case, $1.50) - 24 bottles\n\nTotal: $6.50\n\n**Meat and Proteins**\n1. Burger Patties (10 patties, $6.99) - 1 patty per person\n2. Hot Dogs (10 hot dogs, $3.99) - 1 hot dog per person\n3. Grilled Chicken Breasts (5 breasts, $8.99) - 1/2 breast per person\n\nTotal: $19.97\nRunning Total: $26.47\n\n**Produce**\n1. Buns (10 buns, $1.99) - 1 bun per person\n2. Lettuce (1 head, $0.99) - for burgers and hot dogs\n3. Tomatoes (1 pack, $1.49) - for burgers and hot dogs\n4. Onions (1 pack, $0.69) - for burgers and hot dogs\n5. Pickles (1 jar, $1.99) - for burgers and hot dogs\n\nTotal: $7.15\nRunning Total: $33.62\n\n**Sides and Condiments**\n1. Coleslaw (1 container, $2.49) - serves 10 people\n2. Baked Beans (1 can, $1.49) - serves 10 people\n3. Ketchup (1 bottle, $1.49) - for burgers and hot dogs\n4. Mustard (1 bottle, $0.99) - for burgers and hot dogs\n\nTotal: $6.46\nRunning Total: $40.08\n\n**Desserts**\n1. Watermelon (1 melon, $3.99) - serves 10 people\n\nTotal: $3.99\nRunning Total: $44.07\n\nTo stay within the budget, I've kept the list simple and focused on essential items. The remaining budget can be used to add any additional items, such as chips or snacks.\n\nRemaining budget: $35.93\n\nThis grocery list should provide a good starting point for a family BBQ for 10 people, with a total cost of $44.07. The remaining budget can be used to add any additional items or to adjust the quantities of the listed items.",
+  "scores": {
+    "budget": 0,
+    "dietary": 2,
+    "realism": 2,
+    "completeness": 2,
+    "clarity": 2
+  },
+  "total": 8
+}
