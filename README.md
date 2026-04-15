@@ -108,3 +108,12 @@ Results saved as JSON to `/results/`.
 - Can rubric scores be validated against real user satisfaction data?
 - How does output quality degrade on more complex tasks (5-day plans, multiple dietary restrictions combined)?
 - Would a v2 rubric with a dedicated "Safety Flagging" dimension improve detection of allergy failures?
+
+
+## Limitations & Improvements
+
+One limitation of the current rubric is that all dimensions are equally weighted, even though some failures (e.g., dietary violations) are more critical than others.
+
+In its current form, a dietary safety violation and a minor budget deviation can contribute equally to the final score, which does not reflect real-world severity.
+
+As an improvement, future iterations would introduce weighted scoring or define critical failure conditions where safety-related dimensions override the overall score.
